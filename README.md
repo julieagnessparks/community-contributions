@@ -9,5 +9,6 @@ A collection of my presentations, blog posts, and other contributions to the cyb
 | 04/22/2023  | Julie Agnes Sparks & friends | [Detection as Code: The Engineering-Focused Future of Detection & Response](https://bsidessf2023.sched.com/event/1HzuE/detection-as-code-the-engineering-focused-future-of-detection-and-response) @ BSides SF | Panel |
 | 02/23/2023  | Julie Agnes Sparks & Josh Liburdi | [Unifying & Scaling Our Security Alert System Using Tines](https://securitysenses.com/videos/future-security-operations-roadshow-unifying-scaling-our-security-alert-system-using-tines) | Presentation |
 | 01/11/2023  | Julie Agnes Sparks | [Creating Audit Logs for Security Professionals](https://medium.com/@julieasparks/acing-your-detection-engineering-interview-9ed95f70ffd7](https://medium.com/@julieasparks/creating-audit-logs-for-security-professionals-2f81b4046bce)) | Blog |
+| 01/01/2023  | Julie Agnes Sparks & Daniel Stinson-Diess | [Audit Logs Tax, a Wall of Shame for Vendors that Skip on Security Logging](https://audit-logs.tax) | Website |
 | 12/7/2022  | Julie Agnes Sparks | [Building the Threat Detection Ecosystem at Brex](https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc) | Blog |
 
