@@ -12,3 +12,5 @@ A collection of my presentations, blog posts, and other contributions to the cyb
 | 01/11/2023  | Julie Agnes Sparks | [Creating Audit Logs for Security Professionals](https://medium.com/@julieasparks/acing-your-detection-engineering-interview-9ed95f70ffd7](https://medium.com/@julieasparks/creating-audit-logs-for-security-professionals-2f81b4046bce)) | Blog |
 | 01/01/2023  | Julie Agnes Sparks & Daniel Stinson-Diess | [Audit Logs Tax, a Wall of Shame for Vendors that Skip on Security Logging](https://audit-logs.tax) | Website |
 | 12/7/2022  | Julie Agnes Sparks | [Building the Threat Detection Ecosystem at Brex](https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc) | Blog |
+| 10/28/2021  | Julie Agnes Sparks | [Demystifying Detection Engineering: Building to Catch Bad Behaviors](https://www.youtube.com/watch?v=SX0dzV_ySgw) @ Day of Shecurity | Presentation |
+| 09/17/2020  | Julie Agnes Sparks | Aligning your Security Job Search with your Values | Presentation |
