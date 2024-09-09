@@ -4,7 +4,7 @@ A collection of my presentations, blog posts, and other contributions to the cyb
 | Date  | Author | Title | Type |
 | --- | --- | --- | --- |
 | 10/19/2024  | Julie Agnes Sparks & friends | Ctrl-Alt-Detected: Unraveling Threats with Detection Practitioners @ BSides NYC | Panel |
-| 09/06/2024  | Julie Agnes Sparks | [Beyond Login Attempts - Detecting Threats in SaaS Applications](https://github.com/julieagnessparks/community-contributions/blob/main/Beyond%20Login%20Attempts%20-%20Detecting%20Threats%20in%20SaaS%20Applications.pdf) @ BSides Denver | Presentation |
+| 09/06/2024  | Julie Agnes Sparks | [Beyond Login Attempts - Detecting Threats in SaaS Applications](https://github.com/julieagnessparks/community-contributions/blob/main/BSides%20Denver%20-%20Beyond%20Login%20Attempts.pdf) @ BSides Denver | Presentation |
 | 06/10/2024  | Julie Agnes Sparks | Improve Snowflake Observability and Security with Datadog @ DASH | Presentation
 | 06/07/2024  | Julie Agnes Sparks & Seth Art | [A guide to threat hunting and monitoring in Snowflake](https://securitylabs.datadoghq.com/articles/a-guide-to-threat-hunting-and-monitoring-in-snowflake/) | Blog |
 | 04/26/2024  | Julie Agnes Sparks | [Demystifying the Process: Threat Detection Engineering Interviews](https://medium.com/@julieasparks/acing-your-detection-engineering-interview-9ed95f70ffd7) | Blog |
