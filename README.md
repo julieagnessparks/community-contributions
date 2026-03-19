@@ -3,6 +3,12 @@ A collection of my presentations, blog posts, and other contributions to the cyb
 
 | Date  | Author | Title | Type |
 | --- | --- | --- | --- |
+| 06/17/2026  | Julie Agnes Sparks & Greg Foss | Critical SaaS, Critical Blind Spots: A Detection Engineer's Field Guide to SaaS Attacks @ Annual FIRSTCon | Presentation |
+| 05/21/2026  | Julie Agnes Sparks | The Room Where It Happens (Identity Compromise Edition): Behind the scenes of Okta attack campaigns @ BSidesSF | Presentation |
+| 06/17/2025  | Julie Agnes Sparks & Nimisha Saxena | Code, Normalize, Detect: The Detection-as-Code Revolution @ AWS reInforce | Presentation |
+| 05/24/2025  | Julie Agnes Sparks | SaaSquatch Hunters: Threat Detection in the Wild of SaaS @ BSides Dublin | Presentation |
+| 05/01/2025  | Julie Agnes Sparks | Beyond Login Attempts: Detecting Threats in SaaS Applications @ RSAC | Presentation |
+| 03/27/2025  | Julie Agnes Sparks & Juvenal Araujo | CI/CD in Action: Detection & Response @ Amsterdam 2025 FIRST Technical Colloquium | Presentation |
 | 10/19/2024  | Julie Agnes Sparks & friends | Ctrl-Alt-Detected: Unraveling Threats with Detection Practitioners @ BSides NYC | Panel |
 | 09/06/2024  | Julie Agnes Sparks | [Beyond Login Attempts - Detecting Threats in SaaS Applications](https://github.com/julieagnessparks/community-contributions/blob/main/BSides%20Denver%20-%20Beyond%20Login%20Attempts.pdf) @ BSides Denver | Presentation |
 | 06/10/2024  | Julie Agnes Sparks | Improve Snowflake Observability and Security with Datadog @ DASH | Presentation
