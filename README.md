@@ -14,6 +14,7 @@ A collection of my presentations, blog posts, and other contributions to the cyb
 | 06/10/2024  | Julie Agnes Sparks | Improve Snowflake Observability and Security with Datadog @ DASH | Presentation
 | 06/07/2024  | Julie Agnes Sparks & Seth Art | [A guide to threat hunting and monitoring in Snowflake](https://securitylabs.datadoghq.com/articles/a-guide-to-threat-hunting-and-monitoring-in-snowflake/) | Blog |
 | 04/26/2024  | Julie Agnes Sparks | [Demystifying the Process: Threat Detection Engineering Interviews](https://medium.com/@julieasparks/acing-your-detection-engineering-interview-9ed95f70ffd7) | Blog |
+| 07/13/2023  | Julie Agnes Sparks & friends | [AUTOMATED ALERT DEDUPLICATION OR SUPPRESSION IN DATA PROCESSING SYSTEMS BASED ON RECURRING DATA IDENTIFIERS](https://patents.justia.com/patent/20240422175) | U.S. Patent |
 | 04/22/2023  | Julie Agnes Sparks & friends | [Detection as Code: The Engineering-Focused Future of Detection & Response](https://bsidessf2023.sched.com/event/1HzuE/detection-as-code-the-engineering-focused-future-of-detection-and-response) @ BSides SF | Panel |
 | 03/24/2022  | Julie Agnes Sparks | [Crash Course in Detection Engineering](https://www.youtube.com/watch?v=tyYONVByfcE) @ Wicked6 | Presentation |
 | 02/23/2023  | Julie Agnes Sparks & Josh Liburdi | [Unifying & Scaling Our Security Alert System Using Tines](https://securitysenses.com/videos/future-security-operations-roadshow-unifying-scaling-our-security-alert-system-using-tines) | Presentation |
